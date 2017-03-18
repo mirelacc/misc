@@ -17,6 +17,8 @@ dnl:
 
 List of most relevant stats:
 
+- https://en.wikipedia.org/wiki/Official_statistics#Most_common_indicators_used_in_official_statistics
+
 Resolutions visible by default:
 
 - current [daily, or if relevant more frequent, e.g. social media trends for a given context]
@@ -29,6 +31,4 @@ Visualizations:
 - in part on a map
 - in part w/ histograms and related plots
 - in part customizable (region, group of interest)
-
-
 
