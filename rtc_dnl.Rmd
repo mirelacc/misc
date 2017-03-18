@@ -1,0 +1,36 @@
+
+rtc:
+
+- http://atlas.media.mit.edu/nl/profile/country/nld/
+- https://www.census.gov/popclock/
+- https://www.census.gov/popclock/world
+- https://www.cbs.nl/nl-nl/economie/internationale-handel
+- http://atlas.media.mit.edu/en/resources/about/
+
+
+
+dnl:
+
+- Official statistics provide a picture of a country or different phenomena through data, and images such as graph and maps. Statistical information covers different subject areas (economic, demographic, social etc.). It provides basic information for decision making, evaluations and assessments at different levels.
+The goal of statistical organizations is to produce relevant, objective and accurate[9] statistics to keep users well informed and assist good policy and decision-making. https://en.wikipedia.org/wiki/Official_statistics
+
+- https://en.wikipedia.org/wiki/File:UNECE_Germany_2010.gif
+
+
+
+- List of most relevant stats:
+
+
+- Resolutions visible by default:
+- + current [daily, or if relevant more frequent, e.g. social media trends for a given context]
+- + avg. this month
+- + avg. this year
+- + avg. past [5? 10?] years
+
+- Visualizations:
+- + in part on a map
+- + in part w/ histograms and related plots
+- + in part customizable (region, group of interest)
+
+
+
