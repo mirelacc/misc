@@ -1,0 +1,22 @@
+
+Overall setup backup
+
+files:
+
+- x.h
+- y.cpp
+- z.cpp
+
+Functional components:
+
+Data
+- reading of seismic data (JSON)
+- mapping to lon-lat projection
+
+Input - openCV
+- detect blobs
+- differntiate 4 colours
+
+Feedback
+- lilypad vibeboards
+
