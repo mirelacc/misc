@@ -11,11 +11,11 @@ Functional components:
 
 Data
 - reading of seismic data (JSON)
-- mapping to lon-lat projection
+- mapping to lon-lat mercator projection
 
-Input - openCV
+Input - openCV (pseye2)
 - detect blobs
-- differntiate 4 colours
+- differentiate 4 colours
 
 Feedback
 - lilypad vibeboards
